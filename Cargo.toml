@@ -1,0 +1,9 @@
+[package]
+name = "count"
+version = "0.1.0"
+description = "Counts file and folder statistics"
+authors = ["William Drescher <wilkua2@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+clap = "2.23"
